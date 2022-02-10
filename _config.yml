@@ -11,11 +11,11 @@ snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5O
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Fur t-shirt store
-author:
-  name: fur
-  email: fur@example.com
-  twitter: fur # twitter username without the @ symbol
-  phone: "+1 23456789"
+author: Dayana Vanessa Quiroz Araujo
+  name: 
+  #email: 
+  #twitter: fur # twitter username without the @ symbol
+  #phone: 
 social:
   name: Fur Template
   links:
@@ -76,10 +76,10 @@ garment_types:
   - top
 
 social_icons:
-  - Email
-  - Facebook
+  - Email: daydream.store25@gmail.com 
+  - Facebook:
   - Google Plus
-  - Instagram
+  - Instagram: https://instagram.com/daydream.store_?utm_medium=copy_link
   - LinkedIn
   - Pinterest
   - Tumblr
